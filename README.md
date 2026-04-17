@@ -169,7 +169,7 @@ BTCPredictorPro
 
 ## Author
 
-- **GitHub**: [@codingcreatively](https://github.com/codingcreatively)
+- **GitHub**: [@anknpolley123](https://github.com/anknpolley123)
 - **Instagram**: @itz_vorzhevik_volnyshev
 
 ## Acknowledgments
